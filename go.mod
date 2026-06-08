@@ -1,3 +1,3 @@
-module github.com/rykovmaksim/go-locksmith
+module github.com/overiss/go-locksmith
 
 go 1.22

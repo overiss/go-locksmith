@@ -30,7 +30,7 @@
 ## Installation
 
 ```bash
-go get github.com/rykovmaksim/go-locksmith
+go get github.com/overiss/go-locksmith
 ```
 
 ## Quick Start
@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rykovmaksim/go-locksmith"
+	"github.com/overiss/go-locksmith"
 )
 
 func main() {
@@ -273,7 +273,7 @@ package main
 import (
 	"time"
 
-	"github.com/rykovmaksim/go-locksmith"
+	"github.com/overiss/go-locksmith"
 )
 
 type UserProfile struct {
